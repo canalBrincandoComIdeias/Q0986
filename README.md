@@ -4,7 +4,7 @@
 
 Projeto do Vídeo Q0983 Série **_Maratona Maker_** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/pb4cM5nCQWY)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/QV_COxBxp6Q)
 
 
 - Confira esse e outros projetos de Arduino assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdrQNjI0YHlKD-bSJ4cFFO4)
